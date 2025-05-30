@@ -46,5 +46,7 @@ python mouse_logger.py
 
 This tool is provided strictly for educational and ethical testing purposes only. Unauthorized use of surveillance software is illegal and may violate privacy laws. Do not run this tool on any system without explicit consent from the device owner.
 
+!!I STILL HAVEN'T TESTED THE CODE!!
+
 
 
